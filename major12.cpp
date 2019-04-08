@@ -1,3 +1,5 @@
+/*******************written by ABHISHEK CHAUHAN a.k.a abhishekcg98 ***************************************************************/
+
 #include<bits/stdc++.h>
 #define floop(a,b,c) for(lli i=a;i<b;i=i+c)
 #define rloop(a,b,c) for(lli i=a;i>b;i=i-c)
